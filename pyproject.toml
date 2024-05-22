@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_aspect_ratios"
+description = "Aspect ratio selector for ComfyUI based on [a/sd-webui-ar](https://github.com/alemelis/sd-webui-ar?tab=readme-ov-file)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/massao000/ComfyUI_aspect_ratios"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_aspect_ratios"
+Icon = ""
